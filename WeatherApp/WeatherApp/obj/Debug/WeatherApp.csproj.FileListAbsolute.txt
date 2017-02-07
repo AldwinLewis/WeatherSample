@@ -25,5 +25,6 @@ C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\bin\De
 C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.App.config
 C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
 C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
 C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll.mdb
 C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.mdb
