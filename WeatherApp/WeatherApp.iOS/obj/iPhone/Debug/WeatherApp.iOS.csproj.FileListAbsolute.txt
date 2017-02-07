@@ -1,0 +1,15 @@
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.exe
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.pdb
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherApp.dll
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherApp.pdb
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\optimized\
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherApp.iOS.csprojResolveAssemblyReference.cache
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.exe
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.pdb
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.exe.mdb
+C:\Projects\Publix\POC\Github\Weather\WeatherSample\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.exe.mdb
